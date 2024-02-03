@@ -1,0 +1,73 @@
+body {
+    font-family: sans-serif;
+}
+header img{
+   margin: 10px;
+}
+
+header{
+    border: 3px solid blue;
+    border-radius:40px;
+}
+header a{
+    background-color: blue;
+    color: white;
+   text-decoration: blue;
+}
+main h1{
+    text-align: center;
+    color:blue;
+}
+footer p{
+background-color: lime;
+text-align: center;
+font-family: comic sans;
+}
+nav{
+    margin: 20x;
+    padding:10px;
+}
+nav a{
+    margin:18px;
+    font-size:20px;
+    border:3px solid blue;
+    background-color: blue;
+    color:white;
+    text-decoration: none;
+    border-radius: 10px;
+}
+.popular{
+    background-color: white;
+    color:blue;
+
+}
+.net{
+border-radius: 10px;
+border: 3px solid blue;
+padding: 10px;
+}
+main{
+    padding:10px;
+}
+p{
+font-size: 20px;
+}
+h2{
+    color:purple;
+}
+
+main a{
+    border: 3px solid blue;
+    padding: 10px;
+    text-decoration:white;
+}
+
+main h2{
+    color: blue;
+    font-size: 35px;
+}
+
+
+.lol{
+    font-size:14px;
+}
